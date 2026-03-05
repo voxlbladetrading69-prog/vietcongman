@@ -1,1 +1,5 @@
-
+services:
+  - type: web
+    name: roblox-farm-controller
+    env: docker
+    plan: free
